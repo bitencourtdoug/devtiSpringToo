@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de um arquivo `README.md` para um projeto Java usando Spring Boot com CRUD completo para classes de Clientes e Cidades, incluindo acesso por login e logout:
-
 ```markdown
 # Spring Boot CRUD Application
 
